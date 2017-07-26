@@ -1,0 +1,20 @@
+
+
+nav {
+  background: pink;
+  text-align: right;
+
+  padding: 20px;
+
+  a {
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0 5px;
+    color: white;
+
+  &:hover {
+    text-decoration: underline;
+  }
+  }
+
+}

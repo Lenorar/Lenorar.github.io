@@ -1,0 +1,71 @@
+
+@import "normalize";
+@import "main";
+@import "nav";
+
+//yellow color
+$brand-color: #FFC02B;
+
+$font-color: #000;
+
+$spacing: 20px;
+
+
+body {
+	background: #fff;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+// desktop introduction
+.intro {
+
+  margin-left: 2%;
+  width: 95%;
+  max-height: 100%;
+
+  h1 {
+    font-weight: 100;
+    font-size: 3vw;
+    line-height: 4.5vw;
+    letter-spacing: .2vw;
+    text-align: left;
+  }
+
+  a {
+    color:pink;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+}
+
+#more-button {
+
+    color: #000;
+    font-size: 40px;
+    padding-bottom: 2%;
+    padding-left: 50%;
+}
+
+
+
+
+//sections
+
+section {
+  height: 50vh;
+  border: 3px solid green;
+
+  h1{
+    padding: 60px 60px 0;
+  }
+
+  p {
+    padding-left: 60px;
+  }
+
+}
