@@ -402,7 +402,7 @@ template {
 [hidden] {
   display: none; }
 
-/* 
+/*
 Project Name: Blank Template
 Client: Your Client
 Author: Your Name
@@ -412,7 +412,7 @@ Author: Your Name
 /*******************************************/
 /* add a list of colours used in the project */
 /******************************************
-/* SENSIBLE DEFAULTS                   
+/* SENSIBLE DEFAULTS
 /*******************************************/
 * {
   box-sizing: border-box; }
@@ -425,7 +425,7 @@ img {
 /*******************************************/
 /* add type styles here */
 /******************************************
-/* LAYOUT                   
+/* LAYOUT
 /*******************************************/
 .site-container {
   max-width: 960px;
@@ -450,7 +450,7 @@ img {
   display: block; }
 
 /******************************************
-/* ADDITIONAL STYLES                   
+/* ADDITIONAL STYLES
 /*******************************************/
 body {
   background: white; }

@@ -1,0 +1,38 @@
+html {
+  background-color: #cacdcd;
+}
+
+.site-container {
+  max-width: 1900px;
+}
+
+
+nav {
+  display: none;
+}
+
+.project-thumbnail {
+  border: solid 4px white;
+  max-width: 50%;
+
+  h1 {
+    color:#000;
+    margin: 0;
+    padding: 1% 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  p {
+    padding: 2px 0;
+    margin: 0;
+    font-size: 1rem;
+
+  }
+}
+
+
+
+.projects-grid {
+  margin-left: 2%;
+}
